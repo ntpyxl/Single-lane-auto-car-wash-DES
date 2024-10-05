@@ -1,0 +1,49 @@
+Car 1 enters car wash lane at minute 1.93 (waited 0.00 minutes).
+Car 2 arrived at minute 3.66.
+Car 1 left the car wash lane at minute 4.93.
+Car 2 enters car wash lane at minute 4.93 (waited 1.27 minutes).
+Car 3 arrived at minute 7.86.
+Car 2 left the car wash lane at minute 7.93.
+Car 3 enters car wash lane at minute 7.93 (waited 0.06 minutes).
+Car 3 left the car wash lane at minute 10.93.
+Car 4 arrived at minute 12.13.
+Car 4 enters car wash lane at minute 12.13 (waited 0.00 minutes).
+Car 5 arrived at minute 14.44.
+Car 4 left the car wash lane at minute 15.13.
+Car 5 enters car wash lane at minute 15.13 (waited 0.70 minutes).
+Car 5 left the car wash lane at minute 18.13.
+Car 6 arrived at minute 19.43.
+Car 6 enters car wash lane at minute 19.43 (waited 0.00 minutes).
+Car 6 left the car wash lane at minute 22.43.
+Car 7 arrived at minute 23.56.
+Car 7 enters car wash lane at minute 23.56 (waited 0.00 minutes).
+Car 7 left the car wash lane at minute 26.56.
+Car 8 arrived at minute 26.67.
+Car 8 enters car wash lane at minute 26.67 (waited 0.00 minutes).
+Car 9 arrived at minute 29.10.
+Car 8 left the car wash lane at minute 29.67.
+Car 9 enters car wash lane at minute 29.67 (waited 0.57 minutes).
+Car 10 arrived at minute 30.54.
+Car 9 left the car wash lane at minute 32.67.
+Car 10 enters car wash lane at minute 32.67 (waited 2.13 minutes).
+Car 11 arrived at minute 35.39.
+Car 10 left the car wash lane at minute 35.67.
+Car 11 enters car wash lane at minute 35.67 (waited 0.29 minutes).
+Car 12 arrived at minute 36.40.
+Car 11 left the car wash lane at minute 38.67.
+Car 12 enters car wash lane at minute 38.67 (waited 2.27 minutes).
+Car 13 arrived at minute 41.00.
+Car 12 left the car wash lane at minute 41.67.
+Car 13 enters car wash lane at minute 41.67 (waited 0.67 minutes).
+Car 13 left the car wash lane at minute 44.67.
+Car 14 arrived at minute 45.73.
+Car 14 enters car wash lane at minute 45.73 (waited 0.00 minutes).
+Car 15 arrived at minute 46.86.
+Car 14 left the car wash lane at minute 48.73.
+Car 15 enters car wash lane at minute 48.73 (waited 1.86 minutes).
+
+
+Average arrival interval: 3.24 minutes.
+Average queue length: 0.16 cars.
+Average wait time: 0.65 minutes.
+Car wash utilization rate: 86.00%.
